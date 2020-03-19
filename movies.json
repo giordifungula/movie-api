@@ -6,7 +6,7 @@
     "year": 2009,
     "amount": "$2,787,965,087",
     "img": {
-      "src": "media/avatar.jpg",
+      "src": "https://m.media-amazon.com/images/M/MV5BMjM2OTkyNTY3N15BMl5BanBnXkFtZTgwNzgzNDc2NjE@._V1_CR132,0,761,428_AL_UY268_CR82,0,477,268_AL_.jpg",
       "alt": "avatar"
     },
     "ranking": 1
@@ -18,7 +18,7 @@
     "year": 1997,
     "amount": "$2,187,463,944",
     "img": {
-      "src": "media/titanic.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/en/1/19/Titanic_%28Official_Film_Poster%29.png",
       "alt": "titanic"
     },
     "ranking": 2
@@ -30,7 +30,7 @@
     "year": 2015,
     "amount": "$2,068,223,624",
     "img": {
-      "src": "media/star_wars_the_force_awakens.jpg",
+      "src": "https://lumiere-a.akamaihd.net/v1/images/tros-home-ent-announce-hero-mobile_de9df93f.jpeg?region=0,0,1024,626&width=960",
       "alt": "star_wars_the_force_awakens"
     },
     "ranking": 3
@@ -42,7 +42,7 @@
     "year": 2018,
     "amount": "$2,048,359,754",
     "img": {
-      "src": "media/avengers_infinity_war.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg",
       "alt": "avengers_infinity_war"
     },
     "ranking": 4
@@ -54,7 +54,7 @@
     "year": 2015,
     "amount": "$1,671,713,208",
     "img": {
-      "src": "media/jurassic_world.jpg",
+      "src": "https://cdn3.whatculture.com/images/2018/06/d5cf1904c22b9d02-600x338.jpg",
       "alt": "jurassic_world"
     },
     "ranking": 5
